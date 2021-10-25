@@ -3,6 +3,10 @@
 This repository contains the source files for the [website](https://patcg.github.io/) and [charter](https://patcg.github.io/charter.html) of the
 [Private Advertising Technology Community Group](https://patcg.github.io).
 
+## Communication
+
+The primary mode of communication for this group is in the public repositories on GitHub.
+
 ## Code of Conduct
 
 As a W3C Community Group, all work and communication within the Privacy CG is
