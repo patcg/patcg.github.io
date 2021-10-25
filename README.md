@@ -1,6 +1,6 @@
 # Private Advertising Technology Community Group
 
-This repository contains the source files for the website and charter of the
+This repository contains the source files for the [website](https://patcg.github.io/) and [charter](https://patcg.github.io/charter.html) of the
 [Private Advertising Technology Community Group](https://patcg.github.io).
 
 ## Code of Conduct
