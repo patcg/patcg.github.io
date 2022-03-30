@@ -7,7 +7,8 @@ Technology Community Group be reported as issues on the repository of the
 affected specifications.
 
 However, if you believe that disclosure of an issue might result in an increased
-risk to people, please contact the editors and chairs privately.  Currently, no
-procedures have been established for ensuring secure communication, see
-[admin#1](https://github.com/patcg/admin/issues/1). Please avoid discussion of
-details of the issue prior to arranging for secure communication.
+risk to people, please contact the editors and chairs privately.  To communicate 
+privetly with chairs on security issues, email them at group-patcg-chairs@w3.org 
+
+Please avoid discussion of details of the issue prior to arranging for secure 
+communication.
